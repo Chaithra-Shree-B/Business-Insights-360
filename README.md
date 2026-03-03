@@ -40,10 +40,10 @@ Power BI • DAX • Power Query • Data Modeling • SQL
 Transforms raw business data into an executive-ready analytics framework — enabling smarter, faster decision-making.
 
 Live Dashboard 
-[LiveDashboard](https://app.powerbi.com/links/UD8DTMcTjE?ctid=4b98009c-5f92-439e-8856-5ea7aeb0474d&pbi_source=linkShare)
+[LiveDashboard](https://app.powerbi.com/groups/b91c6f3f-f857-45e3-b297-a5ea924a2e1e/reports/d44bc296-53ce-438c-a8bd-ee42f8338d01/1e27ec34bb366bd032da?experience=power-bi)
 
 App Link
-[App](https://app.powerbi.com/groups/me/apps/e16a7785-a5ad-4b80-86f3-0f9b97e8d12d/reports/63821236-89ff-44ac-ab85-51dab1c28180/1e27ec34bb366bd032da?experience=power-bi)
+[App](https://app.powerbi.com/Redirect?action=OpenApp&appId=2d00d53a-e3b9-4a7b-bb61-18e9100a2f77&ctid=4b98009c-5f92-439e-8856-5ea7aeb0474d&experience=power-bi)
 
 Excel Analysis
 [Excel ](https://onedrive.live.com/personal/11c13ad03399cc02/_layouts/15/doc.aspx?resid=64bb3a09-31f6-4030-9ff7-bcd6c9aeb8d9&cid=11c13ad03399cc02)
